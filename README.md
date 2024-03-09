@@ -16,4 +16,4 @@
 
 由于采用wsl很难采取两个不同ip的ubuntu服务器，故改用vaware
 
-[给 WSL2 设置静态 IP 地址 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/380779630#:~:text=Name -Eq WSLNat | Remove-NetNat -Confirm%3A%24False New-NetNat -Name,(WSL) 这个网络适配器，然后将其所有已有的 IP 地址删除，然后为其添加 192.168.50.1%2F24 的 IP 地址。)
+[给 WSL2 设置静态 IP 地址 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/380779630#:~:text=Name -Eq WSLNat | Remove-NetNat -Confirm%3A%24False New-NetNat -Name,(WSL) 这个网络适配器，然后将其所有已有的 IP 地址删除，然后为其添加 192.168.50.1%2F24 的 IP 地址)
